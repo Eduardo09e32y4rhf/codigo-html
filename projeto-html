@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>historia do windows</title>
+    <link rel="stylesheet" type="text/css" href="ex.css" media="screen" />
+   
+</head>
+   
+
+<body>
+  <link rel="stylesheet" href="style.css">
+  <nav class='nav'>
+    <ul>
+      <li class="menuitem" ><a href="#significado" >Windows</a></li>
+      <li class="menuitem"><a href="#origem"> História</a></li>
+      <li  class="menuitem"><a href="#origem">Versões</a></li>
+    </ul>
+    
+  </nav> <br> <br> <br>
+
+   <main>
+
+        <h1>  voce conhece a historia do windows </h1>   
+    <h2>
+        Microsoft Windows é uma popular família de sistemas operacionais criados pela Microsoft, empresa fundada por Bill Gates e Paul Allen. <br>
+        O Windows é um produto comercial, com preços diferenciados para cada uma de suas versões. <br>
+        Embora haja uma enorme quantidade de cópias ilegais instaladas, ele é o sistema operacional mais usado do mundo. <br>
+        Apesar do sistema ser conhecido pelas suas falhas críticas na segurança e como plataforma de vírus de computador e programas-espiões (spywares), <br>
+        o impacto deste sistema no mundo atual é simplesmente incalculável devido ao enorme número de cópias instaladas. <br>
+        Conhecimentos mínimos desse sistema, do seu funcionamento, da sua história e do seu contexto são, na visão de muitos, indispensáveis, mesmo para os leigos em informática.
+    </h2>
+                         
+    
+<h1 id="significado" >SIGNIFICADO DO NOME</h1>
+
+<h2>
+ A palavra windows em português significa janelas. A sua interface [e gráfica e baseada no padrão WIMP previamente desenvolvido em Xerox  <br>
+ possui janelas que exibem informações e recebem respostas dos utilizadores através de um teclado ou de cliques do mouse. <br>
+ O registro da marca Windows foi legalmente complicado, pelo fato dessa palavra ser de uso corrente em inglês <br>
+</h2>
+
+<h1 id="origem">ORIGEM E HISTÓRIA</h1>
+<h2>
+A Microsoft começou o desenvolvimento de um Gerenciador de Interface (subseqüente renomeado Microsoft Windows) <br>
+em setembro de 1981. O Windows só começa a ser tecnicamente considerado como um SO a partir da versão Windows NT, <br>
+lançada em Agosto de 1993. O que havia antes eram sistemas gráficos sendo executados sobre alguma versão dos sistemas compatíveis com DOS, <br>
+como MS-DOS, PC-DOS ou DR-DOS. Somente o MS-DOS era produzido pela própria Microsoft. <br>
+O MS-DOS é um sistema operativo que não dispõe de interface gráfica, funciona através de comandos de texto introduzidos no teclado pelo utilizador. <br>
+O Windows surgiu inicialmente como uma interface gráfica para MS-DOS, que permitia correr programas em modo gráfico, o que permitiu a utilização do mouse, <br>
+que até à altura era considerado supérfluo em computadores de tipo IBM-PC.
+</h2>
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/0Fjwg6q_cfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h1 id="versoes">ABAIXO VOCÊ IRÁ ENCONTRAR ALGUMAS VERSÕES DO WINDOWS</h1>
+
+<h2>
+ > Windows 1.0 <br>
+> Windows 2.0 <br>
+> Windows 2.1 <br>
+> Windows 3.x <br>
+> Windows NT <br>
+> Windows 95 <br>
+> Windows 98 <br>
+> Windows 2000 <br>
+> Windows ME <br>
+> Windows XP <br>
+> Windows Server 2003 <br>
+> Windows Vista <br>
+> Windows Server 2008 (Lançamento previsto para 2008) <br>
+> Windows Seven (Esse será o sucessor do Windows Vista) <br>
+> Windows CE
+</h2>
+</main>
+
+
+</body>
+</html> 
+
+
+     
+body {  
+    background-color:#eee8e3 ;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: 10px; padding-left: 25px;}
+
+     
+
+    h1 { background:#d88857}
+     h2 { text-justify: auto, text: ident 30px; color black);}
+
+     
+     
+.nav{
+  margin: 15x auto;
+  }
+.nav li{
+    
+    display:block;
+    list-style:none;
+    height:40px;
+    width:310px;
+    float:left;
+     font: size 100px;,;
+     font-family: arial :first-letter 
+    font-weight:300;
+    text-align:center,;
+    border: 2px solid #023047
+  
+  }
+  .nav li a{
+    text-decoration: #9b7934  ;
+    
+  }
+  .home{
+    background-color:#da9e09;
+  }
+  .home:hover{
+    background-color:#6d392c;
+    transition:10s;
+  }
+  .menuitem{
+    background-color:#eedab2;
+   
+  }
+  .menuitem:hover{
+    background-color:#b16229;
+    transition:0.7s;
+  }
+
+
+
+
